@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Veroxus
-- 👀 I’m interested in ... Computer Engineering
+- 👋 Hi, I’m Aidan Corcoran
+- 👀 I’m interested in ... Computer Engineering/Software Engineering and Development
 - 🌱 I’m currently learning ... C, Python and Java
 - 💞️ I’m looking to collaborate on ... Anything!
 - 📫 How to reach me ... ajcorcoran@hotmail.ca
